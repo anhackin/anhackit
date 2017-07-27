@@ -1,5 +1,5 @@
 /*
-	Anhackit config file - Developed by Anhackin
+    Anhackit config file - Developed by Anhackin
 */
 
 /*

